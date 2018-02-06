@@ -82,7 +82,6 @@ const program = (ops) => {
                 validate(to);
                 bytes = labels[to] - labels[from];
               }
-              console.log("GOT: " + hexify(bytes, op.arglen))
               code += hexify(bytes, op.arglen);
             }
           } else {
