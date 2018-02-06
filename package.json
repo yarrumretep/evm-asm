@@ -1,0 +1,11 @@
+{
+  "name": "evm-asm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "evm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter M. Murray <pete@pmurray.com>",
+  "license": "ISC"
+}
