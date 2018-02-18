@@ -60,6 +60,7 @@ const program = (ops) => {
   }
 
   return {
+    labels,
     generate: () => {
       var code = "0x";
       ops.forEach(op => {

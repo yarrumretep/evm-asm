@@ -1,6 +1,6 @@
 {
   "name": "@optionality.io/evm-asm",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "",
   "main": "evm.js",
   "scripts": {
